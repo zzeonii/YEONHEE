@@ -11,6 +11,16 @@
 |11|Piezo|소리|
 |A0|가변저항|아날로그 입력|
 
-![img](/YeonheeDev.png)
+![img](/YoneheeDev.png)
 
-##LED검증
+## LED 검증 
+* Basics -> Blink 예제
+
+## Button 검증 
+* Digital -> Button 예제
+
+## Piezo 검증 
+* Digital -> toneMelody 예제
+
+## 가변저항 검증 
+* Analog -> AnalogInput 예제
